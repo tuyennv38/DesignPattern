@@ -1,4 +1,4 @@
-###Cách sử dụng Command Pattern
+# Cách sử dụng Command Pattern
 Để hiểu cách sử dụng nó chúng ta sẽ thông qua 1 ví dụ như sau: Cùng khởi tạo playground để demo cách sử dụng: Chúng ta có một đối tượng Light có 2 phương thức là switchOn và switchOff: Đây đóng vai trò là 1 class request
 
 class Light {
@@ -59,7 +59,7 @@ và kết quả là: light off
 
 Từ ví dụ trên chắc ae cũng có thể hiểu được cơ bản cách thức để xây dựng và sử dụng của một command pattern.
 
-Command pattern khá hữu dụng nhưng ta nên sử dụng những khi:
+# Command pattern khá hữu dụng nhưng ta nên sử dụng những khi:
 
 Khi cần tham số hóa các đối tượng theo một hành động thực hiện.
 Khi cần tạo và thực thi các yêu cầu vào các thời điểm khác nhau.
