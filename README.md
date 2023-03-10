@@ -1,4 +1,4 @@
-Cách sử dụng Command Pattern
+###Cách sử dụng Command Pattern
 Để hiểu cách sử dụng nó chúng ta sẽ thông qua 1 ví dụ như sau: Cùng khởi tạo playground để demo cách sử dụng: Chúng ta có một đối tượng Light có 2 phương thức là switchOn và switchOff: Đây đóng vai trò là 1 class request
 
 class Light {
